@@ -15,7 +15,7 @@ This repository contains code and resources for building an automatic watering s
 7. Adjust the potentiometer on the soil moisture meter.
 8. Change the analog values on Line 28 in the sketch to more accurately represent 0-100%. Write down the newly mapped values.
 9. Compile, upload, and test again.
-# Step 2: Build the Automatic Water System
+# Step 3: Build the Automatic Water System
 ![Automatic Water System](https://github.com/kjellwr4/Automatic-H20-System/blob/master/Gikfun_Auto_H20_System.png)
-# Step 3:
+# Step 4:
 1. Replace Line 30 with the values....
