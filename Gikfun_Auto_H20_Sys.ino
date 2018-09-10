@@ -30,12 +30,12 @@ void loop() {
   soilReading = map(soilReading,1023,0,0,100); //Reverse mapping for percentage. This needs to be changed.
 
   if (soilReading <= 40) {
-    digitalWrite(waterPump,HIGH);
-    delay(1000);
     digitalWrite(waterPump,LOW);
+    delay(1000);
+    digitalWrite(waterPump,HIGH);
   }
   else {
-    digitalWrite(waterPump,LOW);
+    digitalWrite(waterPump,HIGH);
   }
   
   //Print soil reading to the serial monitor.
