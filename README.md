@@ -6,7 +6,7 @@ This repository contains code and resources for building an automatic watering s
 - Breadboard (170 Tie-Ins)
 # Step 1: Wire Soil Moisture Sensor for Test
 ![Wiring for Soil Moisture Sensor Test](https://github.com/kjellwr4/Automatic-H20-System/blob/master/Soil_Moisture_Test.png = 400x)
-<img src="https://github.com/kjellwr4/Automatic-H20-System/blob/master/Soil_Moisture_Test.png" width="65%" height="65%)
+<img src="https://github.com/kjellwr4/Automatic-H20-System/blob/master/Soil_Moisture_Test.png" width="65%" height="65%>
 # Step 2: Test Soil Moisture Sensor
 1. Download the [Soil_Moisture_Test.ino sketch](https://github.com/kjellwr4/Automatic-H20-System/blob/master/Soil_Moisture_Test.ino =400x).
 2. Open the Arduino IDE and choose the correct board and port.
