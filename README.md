@@ -5,7 +5,7 @@ This repository contains code and resources for building an automatic watering s
 - [Gikfun's Automatic Watering System Manager with Mini Water Pump](http://www.gikfun.com/electronic-diy-kits-c-7/automatic-watering-system-manager-with-mini-water-pump-diy-kit-p-800.html)
 - Breadboard (170 Tie-Ins)
 # Step 1: Wire Soil Moisture Sensor for Test
-![Wiring for Soil Moisture Sensor Test](Automatic-H20-System/Soil Moisture Test.png)
+![Wiring for Soil Moisture Sensor Test](https://github.com/kjellwr4/Automatic-H20-System/Soil Moisture Test.png)
 # Step 2: Test Soil Moisture Sensor
 2. Download the Soil_Moisture_Test.ino sketch.
 3. Open the Arduino IDE and choose the correct board and port.
